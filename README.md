@@ -1,3 +1,3 @@
 ## React + rspack
 
-![demo](/demo.png)
+![demo](/demo-app.png)
