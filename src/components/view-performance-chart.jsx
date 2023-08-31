@@ -13,7 +13,7 @@ const COLORS = ["#d1d5db", "#0088FE", "#d1d5db", "#d1d5db"];
 
 const ViewPerfomanceChart = () => {
   return (
-    <PieChart width={290} height={150} data={data}>
+    <PieChart width={260} height={150} data={data}>
       <Pie
         dataKey="viewCount"
         startAngle={180}
